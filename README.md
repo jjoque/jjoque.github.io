@@ -1,2 +1,2 @@
 # jjoque.github.io
-[data visualization course](jjoque.github.io/datavisualization)
+[data visualization course](jjoque.github.io/datavisualization/)
